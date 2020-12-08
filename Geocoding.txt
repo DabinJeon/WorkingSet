@@ -1,0 +1,15 @@
+< 주소명 값을 위도/경도 값으로 변환하기 >
+
+1. 구글 스프레드시트 실행
+
+2. 부가기능 설치-> Geocode by Awesome Table 설치
+
+3. 데이터 업로드 -> 엑셀 함수 CONCATENATE(시도, 시군구, 동)을 활용하여 하나의 문자열로 병합
+
+4. 부가기능 -> [ Geocode by Awesome Table ] -> [ Start Ceocoding ]
+
+5. 시트 및 주소 포함 열 선택
+
+6. Geocode! 클릭
+
+7. 위도/경도 열이 각각 생성되고 해당 열에 값이 입력됨
